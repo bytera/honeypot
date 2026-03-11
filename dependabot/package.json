@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "@bytera/pigeon": "^1.0.0",
+    "@graphql-codegen/cli": "^5.0.6",
     "openapi-gui": "^1.2.2"
   }
 }
