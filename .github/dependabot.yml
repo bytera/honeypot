@@ -1,4 +1,4 @@
-# Trigger Dependabot
+# Force Dependabot
 version: 2
 updates:
   - package-ecosystem: "npm"
