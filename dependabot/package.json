@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@bytera/pigeon": "^1.0.0",
+    "openapi-gui": "^1.2.2"
+  }
+}
