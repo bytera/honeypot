@@ -10,5 +10,6 @@ registries:
 updates:
   - package-ecosystem: "npm"
     directory: "/dependabot"
+    registries: "*"
     schedule:
       interval: "daily"
