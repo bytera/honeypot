@@ -6,4 +6,10 @@ registries:
     type: npm-registry
     url: https://npm.pkg.github.com
     token: ${{github.token}}
-  
+    
+updates:
+  - package-ecosystem: "npm"
+    directory: "/dependabot"
+    registries: "*"
+    schedule:
+      interval: "daily"
