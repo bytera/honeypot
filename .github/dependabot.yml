@@ -1,4 +1,4 @@
-# Force Dependabot
+# Trigger Dependabot
 version: 2
 
 registries:
