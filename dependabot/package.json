@@ -3,6 +3,6 @@
     "@bytera/pigeon": "^1.0.2",
     "@graphql-codegen/cli": "^5.0.6",
     "openapi-gui": "^1.2.2",
-    "textlint": "^10.2.1"
+    "textlint": "^15.5.2"
   }
 }
